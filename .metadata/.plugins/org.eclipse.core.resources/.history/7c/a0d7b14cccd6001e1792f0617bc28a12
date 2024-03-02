@@ -1,0 +1,12 @@
+package sec01.exam05;
+
+import java.util.Scanner;
+
+public class SwitchSrtingExample {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		Sting position = sc.nextLine();
+		
+	}
+}

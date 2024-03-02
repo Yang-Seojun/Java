@@ -1,0 +1,11 @@
+package sec01.exam03;
+
+public class SwitchDiceExample {
+	public static void main(String[] args) {
+		int num = (int) (Math.random() * 6) + 1;
+		
+		switch(num) {
+		
+		}
+	}
+}

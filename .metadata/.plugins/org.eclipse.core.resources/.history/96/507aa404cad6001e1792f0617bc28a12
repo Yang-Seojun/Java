@@ -1,0 +1,11 @@
+package sec01.exam03;
+
+public class IfDiceExample {
+	public static void main(String[] args) {
+		int num = (int)(Math.random() * 6) + 1; // 1 ~ 6
+		
+		if(num == 1) {
+			
+		}
+	}
+}

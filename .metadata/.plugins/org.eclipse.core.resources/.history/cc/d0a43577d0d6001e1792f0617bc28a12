@@ -1,0 +1,8 @@
+package sec02.exam04;
+
+public class WhileSumFrom1To100Example {
+	public static void main(String[] args) {
+		int sum = 0;
+		
+	}
+}
